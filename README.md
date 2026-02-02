@@ -11,3 +11,6 @@
 - [x] Write a pgm to input two numbers: a and b. Next, compute the sum of the given numbers.  
 
 - [x] Write a pgm to input age from user and print adult or minor according to the age.  
+
+- [x] Write a pgm to input 1-7 and print day name according to it.
+
