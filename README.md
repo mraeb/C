@@ -6,3 +6,5 @@
 
 - [x] Simple "Hello" program with printf.
 
+- [x] declare and print differnt types of variables
+
