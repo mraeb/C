@@ -9,3 +9,5 @@
 - [x] declare and print differnt types of variables.  
 
 - [x] Write a pgm to input two numbers: a and b. Next, compute the sum of the given numbers.  
+
+- [x] Write a pgm to input age from user and print adult or minor according to the age.  
