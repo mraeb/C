@@ -16,4 +16,6 @@
 
 ## Day 3-4 Loops & Patterns
 
-- [x] print numbers 1 - 10 and sum all the number then print (for loop)
+- [x] print numbers 1 - 10 and sum all the number then print (for loop).
+
+- [ ] next question 
